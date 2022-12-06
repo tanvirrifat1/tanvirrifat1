@@ -36,16 +36,5 @@ Skills: REACT/Firebase-Authentication / Node.JS / Express.JS /MongoDB / html / c
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/tanvirrifat1)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/tanvirrifat1)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/tanvirrifat1&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/tanvirrifat1)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/tanvirrifat1)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/tanvirrifat1)  
 
 
