@@ -1,11 +1,8 @@
 ![Mern-Stack Developer](https://media-exp1.licdn.com/dms/image/D5616AQHwT3KNJ_M-aA/profile-displaybackgroundimage-shrink_350_1400/0/1670352322342?e=1675900800&v=beta&t=r_acOdVUp7JWoEd-90_La0U06Exwkit27OFn81_Qp2k)
 
-### Tanvirrifat1
-#### Mern-Stack Developer
 
-
-<h1 align="center">Hi 👋, I'm Md Maksud Billah</h1>
-<h3 align="center">I am a full stack web developer from Bangladesh</h3>
+<h1 align="center"> I'm Tanvir Ahmed Rifat</h1>
+<h3 align="center">I am a Mern Stack web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksud444&label=Profile%20views&color=0e75b6&style=flat" alt="maksud444" /> </p>
