@@ -22,6 +22,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-rifat-miah-48555b257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-rifat-miah-48555b257/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/rifat.khan7625/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rifat.khan7625/" height="30" width="40" /></a>
 <a href="https://web.whatsapp.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://www.facebook.com/rifat.khan7625/" height="30" width="40" /></a>
+<a href="[https://web.whatsapp.com/](https://twitter.com/RifatKh77041896)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.facebook.com/rifat.khan7625/" height="30" width="40" /></a>
 </p>
 
 
