@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Doctor-Portal](https://doctors-portal-d24d1.web.app/)
 
-- 🌱 I’m currently learning **NodeJS, MongoDB**
+- 🌱 I’m currently learning **NodeJS, MongoDB, TypeScript**
 
 - 💬 Ask me about **Front-End**
 
