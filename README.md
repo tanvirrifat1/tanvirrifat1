@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **NodeJS, MongoDB**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Front-End**
 
 - 📫 How to reach me **rifatkhan5567790@gmail.com**
 
