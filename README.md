@@ -9,8 +9,7 @@
 
 - 🔭 I’m currently working on [Mongoose]
 
-- 👯 I’m looking to collaborate on [Doctor-Portal](https://doctors-portal-d24d1.web.app/)
-
+- 👯 I’m looking to collaborate on [Typescript]
 - 🌱 I’m currently learning **NodeJS, MongoDB, Redux**
 
 - 💬 Ask me about **Front-End**
