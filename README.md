@@ -1,7 +1,7 @@
 ![Front End Developer](https://media.licdn.com/dms/image/D5616AQEYczDgtrOi7A/profile-displaybackgroundimage-shrink_350_1400/0/1674555278507?e=1683763200&v=beta&t=_cSNJzrpzjonGStTzmSzA3llbLaJWdLMZ_z_7C9jzWU)
 
-<h1 align="center">Hi, I'm Tanvir Ahmed Rifat</h1>
-<h3 align="center">Front End Developer</h3>
+<h1 align="center">Hi I'm Tanvir Ahmed Rifat</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <img align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
