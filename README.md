@@ -2,18 +2,13 @@
 
 <h1 align="center">Hi, I'm Tanvir Ahmed Rifat</h1>
 <h3 align="center">I am Full Stack Developer</h3>
-<img align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
+<img align="right" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F03%2F13%2F40%2F45%2F360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg&tbnid=eQI_McJ_0YhUxM&vet=12ahUKEwiLs5GumOKBAxX-a2wGHYdnAD8QMygDegQIARBT..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&docid=8YZqRq27QWN2GM&w=517&h=360&q=animated%20coding%20images&ved=2ahUKEwiLs5GumOKBAxX-a2wGHYdnAD8QMygDegQIARBT" alt="Coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirrifat1&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirrifat1" /> </p>
 
 
 - 🌱 I’m currently learning **NextJS,Redux,SQL,Prisma**
-
-- 👨‍💻 All of my projects are available at [https://symphonious-hummingbird-255be1.netlify.app/](https://symphonious-hummingbird-255be1.netlify.app/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/md-rifat-miah-48555b257/](https://www.linkedin.com/in/md-rifat-miah-48555b257/)
-
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN REACT**
 
 - 📫 How to reach me **rifatkhan5567790@gmail.com**
 
