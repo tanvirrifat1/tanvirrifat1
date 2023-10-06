@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Tanvir Ahmed Rifat</h1>
 <h3 align="center">I am Full Stack Developer</h3>
-<img align="right" width="400" src="[https://pbs.twimg.com/media/F7yB3-5aoAApc9t?format=jpg&name=small](https://twitter.com/RifatKh77041896/status/1710384801038160354/photo/1)" alt="Coding" />
+<img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-xQtMrNg9WxxSYcdWJureTwFsQb9_TpUYitO0720CwKjl6otKjTEm7xgVRaDx5Rm74E&usqp=CAU" alt="Coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirrifat1&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirrifat1" /> </p>
 
