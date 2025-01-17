@@ -1,6 +1,6 @@
 ![Front End Developer](https://media.licdn.com/dms/image/v2/D5616AQE0bsGnQbo9JQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698121650082?e=1739404800&v=beta&t=YQR0pEP8xr0Eo0SY22_wVA_G7FgxUAJmFQHNNGdDH00)
 
-<h1 align="center">Hi, I'm Tanvir Ahmed Rifat</h1>
+<h1 align="center">Hi, I'm MD. Rifat Miah</h1>
 <h3 align="center">I am Full Stack Developer</h3>
 <img align="right" width="400" src="https://img.freepik.com/free-vector/programmers-day-banner-design_1308-114298.jpg?size=626&ext=jpg&uid=R83218281&ga=GA1.2.1908891225.1665030381&semt=ais" alt="Coding" />
 
