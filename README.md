@@ -1,4 +1,4 @@
-![Front End Developer](https://pbs.twimg.com/profile_banners/1600384302839042048/1746200116/600x200)
+![Front End Developer](https://pbs.twimg.com/profile_banners/1600384302839042048/1746200116/600x400)
 
 <h1 align="center">Hi, I'm MD. Rifat Miah</h1>
 <h3 align="center">I am Full Stack Developer</h3>
