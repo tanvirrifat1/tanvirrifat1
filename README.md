@@ -1,4 +1,4 @@
-![Front End Developer]("https://media.licdn.com/dms/image/v2/D5616AQHkpYTi_t8Iwg/profile-displaybackgroundimage-shrink_350_1400/B56ZaRo8KoHAAk-/0/1746200151834?e=1751500800&v=beta&t=F4NW6-TxZ7jDsEkbPR2EKXPOJDm6aGXpTXNUWPtweEw")
+![Front End Developer](https://pbs.twimg.com/profile_banners/1600384302839042048/1746200116/600x200)
 
 <h1 align="center">Hi, I'm MD. Rifat Miah</h1>
 <h3 align="center">I am Full Stack Developer</h3>
