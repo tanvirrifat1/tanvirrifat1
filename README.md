@@ -1,4 +1,4 @@
-![Front End Developer](https://media.licdn.com/dms/image/v2/D5616AQHkpYTi_t8Iwg/profile-displaybackgroundimage-shrink_350_1400/B56ZaRo8KoHAAk-/0/1746200151834?e=1760572800&v=beta&t=8QzDaexx_QozHLcY1k5OfVXHG2FWi-gVHfcs-mY1YzI)
+![Front End Developer](https://media.licdn.com/dms/image/v2/D5616AQHkpYTi_t8Iwg/profile-displaybackgroundimage-shrink_350_1400/B56ZaRo8KoHAAk-/0/1746200151834?e=1762387200&v=beta&t=8f2-JQOGy_bBsABgKxP-aJLFwQvRDETNUFbP3-mJR_g)
 
 <h1 align="center">Hi, I'm MD. Rifat Miah</h1>
 <h3 align="center">I am Full Stack Developer</h3>
@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirrifat1&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirrifat1" /> </p>
 
 
-- 🌱 I’m currently learning **NextJS,Redux,SQL,Prisma**
+- 🌱 I’m currently learning **C,Python,DSA**
 - 💬 Ask me about **MERN REACT**
 
 - 📫 How to reach me **rifatkhan5567790@gmail.com**
