@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-My name is Md Rifat Miah, and I am a Backend Developer with 1.6 years of experience specializing in Node.js. I build scalable, efficient, and secure server-side applications using technologies such as Express.js, NestJS, and MongoDB. I also work with C and C++, and I am continuously expanding my skill set. In the future, I plan to learn Python and Django to strengthen my backend expertise even further. I am passionate about improving my craft, exploring new technologies, and contributing to meaningful projects.
+My name is Md Rifat Miah, and I am a Backend Developer with 2 years of experience specializing in Node.js. I build scalable, efficient, and secure server-side applications using technologies such as Express.js, NestJS, and MongoDB. I also work with C and C++, and I am continuously expanding my skill set. In the future, I plan to learn Python and Django to strengthen my backend expertise even further. I am passionate about improving my craft, exploring new technologies, and contributing to meaningful projects.
  
 ### 🔭 I’m currently working on ...
  
