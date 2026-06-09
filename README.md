@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md.Miah Miah</h1>
-<h3 align="center">My name is Md Rifat Miah, and I am a Backend Developer with 1.8 years of experience specializing in Node.js. For the past year, I have been working at JVAI as a Backend Developer, building scalable and secure server-side applications using Node.js, Express.js, NestJS, MongoDB, and Python. I am passionate about backend development, continuous learning, and delivering high-quality software solutions.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirrifat1" alt="tanvirrifat1" /></a> </p>
+<h3 align="center">Backend Developer | 1.8+ Years of Experience | Node.js, NestJS, Express.js, MongoDB, Python | Building Scalable & Secure Applications</h3>
 
 - 🔭 I’m currently working on [Qr Management](https://github.com/tanvirrifat1/qr-management)
 
