@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md.Miah Miah</h1>
-<h3 align="center">Backend Developer | 1.8+ Years of Experience | Node.js, NestJS, Express.js, MongoDB, Python | Building Scalable & Secure Applications</h3>
+<h3 align="center">Backend Developer | 1.8+ Years of Experience | Node.js, NextJS, Express.js, MongoDB, Python | Building Scalable & Secure Applications</h3>
 
 - 🔭 I’m currently working on [Qr Management](https://github.com/tanvirrifat1/qr-management)
 
